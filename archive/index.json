@@ -1,6 +1,13 @@
 {
   "editions": [
     {
+      "date": "2026-08-03",
+      "edition": "evening",
+      "file": "/archive/2026-08-03-evening.json",
+      "count": 60,
+      "generatedAt": "2026-08-03T18:37:35+08:00"
+    },
+    {
       "date": "2026-07-25",
       "edition": "evening",
       "file": "/archive/2026-07-25-evening.json",
